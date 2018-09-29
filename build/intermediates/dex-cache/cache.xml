@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.1_ddf2b407fccf829fc5582938765e7f08f7eb95dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/950ab3fedd9fadd59b6a3970721efd0849deece9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a6664aeacc98aac2b97fdc62de34637b8c42d10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/377e482bfe7085c189509f5b304323a4a84689d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d497e6519865ae167f73ae4ce950c9215e2ee35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_63e9a6a4b8037bd7751c3d638b08949f4121bb54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/cd4d1caec10a8841562b230f60fa30698d9db2e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_457acd16b6d0e7441764abdf787634effb297127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="5c0408c1cfc0e8bb2c6e51246114e45059ffd146">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ac830d460374d8266fbaad9a9eb99d085b148f6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/1ed4309b79291f152eb24bc31e5000ab131522ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c303a1d98622aa01082869d402cb7751533aa09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a52038dbda70b352bc08bd4ac3dc68b5203b6326">
+        <dex dex="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b29c3003662a098db408a48738d68ea5ba4f8fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_b7ec5dc6cb4672bf0b021120551d0ecf9dc9a2e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/1c73fecc8a41ec417211036c057a9a3b15c50502/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e0722901420e9dad5994525fa3f9500bffda52c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/950ab3fedd9fadd59b6a3970721efd0849deece9/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_a132b076d1165c50facd8b95811da565291497c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/a44a281d4412648cb5592249d253cdf7354932bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_447ffa77e8721207a0bc5c63d242f5d9cf38b154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/da7f08c878649f35ebad9aeca33c2e3303a5e5af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ee8180f60fd3066b950fbb64edefee7bc611201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/6809b08de46a867201929464be13a7771f8ea623/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35f6755b69637c4137e26489de49cf60f879b954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/fad1639709723d8e21c72cb18c4f3796f9a772dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f95df2dddccec580d9c50fb492031e42f683f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_4649e87aa235cce708a3a57698a48f1fc50d3f85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/b82cc0d3e02ff2002468540bf3533c0accea09fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_713cbfb07b128de66c20d88f65c7005609b22c95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7a00361713930f7267f05f42e90935b41fcb6303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/f8d308f32b6faf2b579f551b2d1fcc2974ef75fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a6a05667ecaac831c1d425369d0367974bae68c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/e9ee487c7517c843d713d99b6cdcb50fbf3974ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd1eabfbbd5218e83728c4a6dd276a0655c8920c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/.android/build-cache/d0c7de0e1fde8f4ae268e9c9ce2b00a86f77f66b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Users/marcelodd/Desktop/MPPSearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_873950779d65825de7c83ddc63d5b3bae9ecc72f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marcelodd/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/marcelodd/Desktop/SearchViewExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_56b80cabdc0c0dd6ad681c98d2a117b9c9270f20/classes.dex" />
+    </item>
+
+</items>

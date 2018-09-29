@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_searchviewexample" default="compile.module.searchviewexample">
+  <dirname property="module.searchviewexample.basedir" file="${ant.file.module_searchviewexample}"/>
+  
+  <property name="module.jdk.home.searchviewexample" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.searchviewexample" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.searchviewexample" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.searchviewexample" value="-encoding UTF-8 -source 1.7 -target 1.7 ${compiler.args}"/>
+  
+  <property name="searchviewexample.output.dir" value="${module.searchviewexample.basedir}/build/classes/production/SearchViewExample"/>
+  <property name="searchviewexample.testoutput.dir" value="${module.searchviewexample.basedir}/build/classes/test/SearchViewExample"/>
+  
+  <path id="searchviewexample.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="searchviewexample.module.production.classpath">
+    <path refid="${module.jdk.classpath.searchviewexample}"/>
+  </path>
+  
+  <path id="searchviewexample.runtime.production.module.classpath">
+    <pathelement location="${searchviewexample.output.dir}"/>
+  </path>
+  
+  <path id="searchviewexample.module.classpath">
+    <path refid="${module.jdk.classpath.searchviewexample}"/>
+    <pathelement location="${searchviewexample.output.dir}"/>
+  </path>
+  
+  <path id="searchviewexample.runtime.module.classpath">
+    <pathelement location="${searchviewexample.testoutput.dir}"/>
+    <pathelement location="${searchviewexample.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.searchviewexample">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.searchviewexample">
+    <patternset refid="excluded.from.module.searchviewexample"/>
+  </patternset>
+  
+  
+  <target name="compile.module.searchviewexample" depends="compile.module.searchviewexample.production,compile.module.searchviewexample.tests" description="Compile module SearchViewExample"/>
+  
+  <target name="compile.module.searchviewexample.production" depends="register.custom.compilers" description="Compile module SearchViewExample; production classes"/>
+  
+  <target name="compile.module.searchviewexample.tests" depends="register.custom.compilers,compile.module.searchviewexample.production" description="compile module SearchViewExample; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.searchviewexample" description="cleanup module">
+    <delete dir="${searchviewexample.output.dir}"/>
+    <delete dir="${searchviewexample.testoutput.dir}"/>
+  </target>
+</project>
